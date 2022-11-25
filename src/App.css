@@ -7,7 +7,7 @@
 body {
   font-family: "Segoe UI", Arial, sans-serif;
   line-height: 1.4;
-  color: #444;
+  color: rgb(97, 96, 96);
   background: #fff;
   height: 100vh;
 }
@@ -63,4 +63,3 @@ body {
   outline: none;
   border: none;
 }
-
